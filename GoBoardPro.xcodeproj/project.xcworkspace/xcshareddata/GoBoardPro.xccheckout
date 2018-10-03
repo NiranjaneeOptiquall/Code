@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>41EA505D-EB62-49DB-B3E8-695EB222924B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GoBoardPro</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>169DB6B09FD354DBDAF87E2AB430FC00EDC872D2</key>
+		<string>https://elitedev.visualstudio.com/DefaultCollection/_git/GoBoard.iOS</string>
+		<key>ADB2BA0A967D3CEDB08F09620B75D02AEC4DA0E5</key>
+		<string>https://elitedev.visualstudio.com/DefaultCollection/_git/Soprema.TechApp</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Code/GoBoardPro.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>169DB6B09FD354DBDAF87E2AB430FC00EDC872D2</key>
+		<string>../../..</string>
+		<key>ADB2BA0A967D3CEDB08F09620B75D02AEC4DA0E5</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://elitedev.visualstudio.com/DefaultCollection/_git/GoBoard.iOS</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>169DB6B09FD354DBDAF87E2AB430FC00EDC872D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ADB2BA0A967D3CEDB08F09620B75D02AEC4DA0E5</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>169DB6B09FD354DBDAF87E2AB430FC00EDC872D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GoBoardPro</string>
+		</dict>
+	</array>
+</dict>
+</plist>
